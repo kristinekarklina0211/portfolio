@@ -39,10 +39,10 @@
 
 @media (max-width: 767px) {
   .hero__paragraph {
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     padding-left: 2px;
   
-    max-width: 310px;
+    max-width: 210px;
   
     font-size: 15px;
     letter-spacing: -0.45px;
