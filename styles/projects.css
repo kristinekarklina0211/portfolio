@@ -58,7 +58,7 @@
 
 .projects__item-title {
   margin-bottom: 5px;
-  
+
   font-size: 35px;
   line-height: normal;
   letter-spacing: -1.05px;
@@ -86,57 +86,57 @@
   .projects {
     width: 100%;
   }
-  
+
   .projects__title {
     margin-bottom: 53px;
   }
-  
+
   .projects__list {
     margin-bottom: 64px;
   }
-  
+
   .projects__item {
     height: 445px;
   }
-  
+
   .projects__category-wrapper {
     top: 40px;
     left: 35px;
   }
-  
+
   .projects__category-box {
     padding: 8px 16px;
     border-radius: 81px;
   }
-  
+
   .projects__category-text {
     font-size: 16px;
     letter-spacing: -0.48px;
   }
-  
+
   .projects__item-text-wrapper {
     left: 40px;
     bottom: 40px;
   }
-  
+
   .projects__item-title {
     font-size: 28px;
     letter-spacing: -0.84px;
   }
-  
+
   .projects__item-text {
     font-size: 24px;
     letter-spacing: -0.72px;
   }
-  
+
   .metrika {
     background-image: url("../resources/projects_metrika_tablet.png");
   }
-  
+
   .nothing {
     background-image: url("../resources/projects_nothing_tablet.png");
   }
-  
+
   .toptrip {
     background-image: url("../resources/projects_toptrip_tablet.png");
   }
@@ -146,63 +146,63 @@
   .projects {
     margin-bottom: 100px;
   }
-  
+
   .projects__inner {
     padding-top: 50px;
   }
-  
+
   .projects__title {
     margin-left: -2px;
     margin-bottom: 34px;
   }
-  
+
   .projects__list {
     margin-bottom: 60px;
     gap: 10px;
   }
-  
+
   .projects__item {
     height: 445px;
   }
-  
+
   .projects__category-wrapper {
     top: 30px;
     left: 33px;
   }
-  
+
   .projects__category-box {
     padding: 7px 13px;
     border-radius: 65px;
   }
-  
+
   .projects__category-text {
     font-size: 13px;
     letter-spacing: -0.39px;
   }
-  
+
   .projects__item-text-wrapper {
     left: 35px;
     bottom: 50px;
   }
-  
+
   .projects__item-title {
     font-size: 28px;
     letter-spacing: -0.84px;
   }
-  
+
   .projects__item-text {
     font-size: 16px;
     letter-spacing: -0.48px;
   }
-  
+
   .metrika {
     background-image: url("../resources/projects_metrika_mobile.png");
   }
-  
+
   .nothing {
     background-image: url("../resources/projects_nothing_mobile.png");
   }
-  
+
   .toptrip {
     background-image: url("../resources/projects_toptrip_mobile.png");
   }
